@@ -4,18 +4,10 @@
   "description": "https://rafi340.github.io/OutDoor_Tour/\r This project built with Html and advance CSS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Rafi340/OutDoor_Tour.git"
+    "compile:sass": "node-sass sass/main.scss css/style.css"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Rafi340/OutDoor_Tour/issues"
-  },
-  "homepage": "https://github.com/Rafi340/OutDoor_Tour#readme",
   "devDependencies": {
     "node-sass": "^7.0.3"
   }
