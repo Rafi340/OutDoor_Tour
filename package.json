@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rafi340/OutDoor_Tour/issues"
   },
-  "homepage": "https://github.com/Rafi340/OutDoor_Tour#readme"
+  "homepage": "https://github.com/Rafi340/OutDoor_Tour#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
 }
